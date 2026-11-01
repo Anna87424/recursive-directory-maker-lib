@@ -1,0 +1,17 @@
+{
+  "name": "recursive-directory-maker-lib",
+  "version": "0.1.0",
+  "description": "Create nested directory paths with a configurable mode, treating an existing directory as success.",
+  "type": "module",
+  "main": "src/index.js",
+  "exports": "./src/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [],
+  "license": "BSD-3-Clause",
+  "dependencies": {}
+}
